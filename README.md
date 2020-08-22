@@ -1,2 +1,2 @@
 # Flask-web-app
-This repo has code that was used to deploy a model using python flask
+rossman pharmaceutical sales web app created by team siemen
